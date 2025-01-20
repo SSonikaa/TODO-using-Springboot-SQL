@@ -10,7 +10,7 @@ Read: View a list of existing tasks. <br>
 Update: Edit task details. <br>
 Delete: Remove tasks from the list. <br>
 
-<h4>Technologies Used</h4> <br>
+<h4>Technologies Used</h4> 
 Java: Core programming language. <br>
 Spring Boot: Framework for building the application. <br>
 JSP (JavaServer Pages): For dynamic web content rendering. <br>
